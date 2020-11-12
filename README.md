@@ -5,3 +5,6 @@ Proyecto de aprendizaje de Python con ejemplos de código y ejercicios de comple
 Tanto si eres profesor como si estás aprendiendo, siéntete libre de utilizar este contenido.
 
 Puedes hacer *fork* pulsando en el botón homónimo de la esquina superior derecha para añadirlo a tus repositorios y editar el código a tu antojo.
+
+## Referencias
+- *Learn Python the Hard Way - A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code*, Zed SHAW. Addison-Wesley, 2014.
