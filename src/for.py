@@ -1,6 +1,6 @@
-# Bucle for
+# For loop
 
-pandilla = ["Dani", "Yajie", "José Luis"]
+gang = ["Dani", "Yajie", "José Luis"]
 
-for miembro in pandilla:
-    print("-" + miembro)
+for member in gang:
+    print("-" + member)

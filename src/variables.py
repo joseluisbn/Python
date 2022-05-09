@@ -1,6 +1,7 @@
-#Variables en Python
+#Variables in Python
 
-texto = "esta variable contiene un texto"
-numero = 35
+text = "this is a string"
+number = 35
 
-print(texto)
+print(text)
+print(number)
