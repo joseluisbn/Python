@@ -1,4 +1,4 @@
-#Variables in Python
+# Variables in Python
 
 text = "this is a string"
 number = 35
