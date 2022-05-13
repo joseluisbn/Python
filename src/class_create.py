@@ -20,4 +20,3 @@ class Human:
 my_human = Human("Hironobu", "Sakaguchi", "male")
 
 print(my_human.name, my_human.surname)
-print(my_human, my_human.develop(16))
