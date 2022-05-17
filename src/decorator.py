@@ -1,4 +1,7 @@
-# Class
+# Decorators: class methods, static methods
+
+# From the class
+
 
 class Human:
     # Attributes
@@ -15,9 +18,10 @@ class Human:
     def sleep(self):
         print("Zzzzzzzz")
 
+    @classmethod
+    def my_method(cls):
+        pass
 
-# Object
-
-my_human = Human("Hironobu", "Sakaguchi", "male")
-
-print(my_human.name, my_human.surname)
+    @staticmethod
+    def my_static_method():
+        pass
